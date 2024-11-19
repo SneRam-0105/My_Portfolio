@@ -1,6 +1,6 @@
 ## Sneha Ramalingam👋
 
-## Welcome to my Portflio
+## Welcome to my Portfolio
 
 **About me**
 
