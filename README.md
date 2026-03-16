@@ -1,9 +1,11 @@
-## Sneha Ramalingam👋
+npm r
 
-## Welcome to my Portfolio
+# Portfolio website
 
-**About me**
+This is a code bundle for Portfolio website. The original project is available at https://www.figma.com/design/ua5ZeC5W2cTDRaga3NLp7p/Portfolio-website.
 
-- I’m currently a student in Business College Helsinki
-- I’m currently pursuing my Full stack web development vocational degree
-- How to reach me: www.linkedin.com/in/sneha-ramalingam
+## Running the code
+
+Run `npm i` to install the dependencies.
+
+Run `npm run dev` to start the development server.
